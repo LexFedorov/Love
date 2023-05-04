@@ -1,0 +1,14 @@
+h1 {
+   font-size: 30px; 
+   color: green;
+   margin-bottom: 50px;
+}
+p {
+    color: red; 
+}
+img {
+    position: relative;top: -73px;
+    left: 222px; }
+    .output {
+        color: red;
+    }
